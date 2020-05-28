@@ -1,0 +1,10 @@
+.header{
+    padding-top: 5px;
+    border-bottom-style: groove;
+}
+
+.bodyText{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    padding-top: 10px;
+}
