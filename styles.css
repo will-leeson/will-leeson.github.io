@@ -5,7 +5,7 @@
 
 .bodyText{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     padding-top: 10px;
 }
 
@@ -15,11 +15,16 @@
 }
 
 .homeImage{
-    width:75%;
+    width:82%;
     height: auto;
 }
 
 html, body{
     height: 100%;
-    overflow: hidden;
+    overflow-y:auto;
+}
+
+.bandList{
+    padding: 1em;
+    border: 1em ridge #ffae00;
 }
