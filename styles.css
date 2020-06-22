@@ -28,3 +28,8 @@ html, body{
     padding: 1em;
     border: 1em ridge #ffae00;
 }
+
+.movieList{
+    padding: 1em;
+    border: 1em ridge #00FFae;
+}
