@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Will Leeson</title>
+    <link>https://will-leeson.github.io/</link>
+    <description>Recent content in About on Will Leeson</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://will-leeson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://will-leeson.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://will-leeson.github.io/contact/</guid>
+      <description> Email: welvw [at] virginia.edu  Social  Github  </description>
+    </item>
+    
+  </channel>
+</rss>
