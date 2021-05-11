@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/to.jpeg" alt="avatar">}}
 
-My name is Will Leeson. I'm a Ph.D. student at the University of Virginia studying under [Matt Dwyer](https://matthewbdwyer.github.io/) and a member of the [LESS LAB](https://less-lab-uva.github.io/). I'm originally from Tinley Park, a suburb of Chicago. I earned degrees in Computer Science and Data Analytics from Drake University. When I'm not working on research, I like to spend my time with friends or doing one of my hobbies (if I'm lucky both). These include playing music, cooking, board games, video games, and painting.
+My name is Will Leeson. I'm a Ph.D. student at the University of Virginia studying under [Matt Dwyer](https://matthewbdwyer.github.io/) and a member of the [LESS LAB](https://less-lab-uva.github.io/). I'm originally from Tinley Park, a suburb of Chicago. I earned degrees in Computer Science and Data Analytics from Drake University. When I'm not working on research, I like to spend my time with friends or doing one of my hobbies (if I'm lucky, both). These include playing music, cooking, board games, video games, and painting.
 
 ## Research Interest
 
