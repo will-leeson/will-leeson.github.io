@@ -1,6 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"TACAS":
+  url: https://tacas.info/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IJQM":
+  url: https://dl.acm.org/journal/tosem
+  color: "#bb00bb"
