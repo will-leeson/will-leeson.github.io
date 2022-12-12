@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: post
-date: 2021-06-22 15:59:00-0400
+date: 2022-12-08 15:31:00-0400
 inline: true
 ---
 
-I passed my quals! -->
+"Sibyl: Improving Software Engineering Tools with SMT Selection" was accepted at ICSE 2023!
