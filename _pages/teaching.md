@@ -23,7 +23,7 @@ nav_order: 4
 * Held office hours twice a week to assist students
 * Lectured on formal verification
 
-##### [CS4620]((https://matthewbdwyer.github.io/4620/)) - Compilers (Fall '20, '21)
+##### [CS4620](https://matthewbdwyer.github.io/4620/) - Compilers (Fall '20, '21)
 * Graded quizzes and projects
 * Held office hours twice a week to assist students
 * Assisted in building [example compiler](https://github.com/matthewbdwyer/tipc/) students were tasked with extending
