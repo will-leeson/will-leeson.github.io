@@ -9,7 +9,7 @@ nav_order: 4
 <!-- ## Teaching -->
 
 ### Instructor
-##### CS1010 - Introduction to Information Technology (Spr. '23)
+##### [CS1010](https://will-leeson.github.io/CS1010/) - Introduction to Information Technology (Spr./Fall '23)
 * Developed lectures covering fundamental concepts in CS
 * Developed lectures tailored to students interests in CS
 * Designed projects to pique student's interest in CS
