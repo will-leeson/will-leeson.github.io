@@ -3,10 +3,8 @@
   contents:
     - name: Full Name
       value: Will Leeson
-    - name: Date of Birth
-      value: July 29th 1997
-    - name: Languages
-      value: English
+    - name: Research Interests
+      value: Program Analysis, Formal Methods, Graph Neural Networks
 
 - title: Education
   type: time_table
