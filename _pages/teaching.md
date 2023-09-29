@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching and Service
+title: Teaching
 nav: true
 nav_order: 4
 ---
@@ -27,9 +27,3 @@ nav_order: 4
 * Graded quizzes and projects
 * Held office hours twice a week to assist students
 * Assisted in building [example compiler](https://github.com/matthewbdwyer/tipc/) students were tasked with extending
-
-## Service
-* SV-Comp 2023 - Jury Member
-* ICSE 2022 - Student Volunteer
-* SV-Comp 2022 - Jury Member
-* Department of Computer Science Graduate Mentorship Program - Graduate Mentor
