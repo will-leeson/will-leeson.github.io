@@ -2,8 +2,8 @@
 layout: page
 permalink: /materials/
 title: Materials
-nav: true
-nav_order: 5
+nav: False
+nav_order: 
 ---
 
 - [Academic Transcript](/assets/pdf/transcript.pdf)

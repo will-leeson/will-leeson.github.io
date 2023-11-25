@@ -3,7 +3,7 @@ layout: post
 title: Rejections Can Help
 date: 2022-11-07 12:00:00
 description: Sometimes its good not to succeed on the first try
-tags: PhD
+tags: PhD Academia
 categories:
 ---
 

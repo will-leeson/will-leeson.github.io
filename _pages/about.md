@@ -21,11 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 ## About Me
 
-My name is Will Leeson. I'm a Ph.D. student at the University of Virginia studying under [Matt Dwyer](https://matthewbdwyer.github.io/) and a member of the [LESS LAB](https://less-lab-uva.github.io/). I earned degrees in Computer Science and Data Analytics from [Drake University](https://www.drake.edu/cs/). 
+My name is Will Leeson. I'm a Ph.D. student at the University of Virginia studying under [Matt Dwyer](https://matthewbdwyer.github.io/) and a member of the [LESS Lab](https://less-lab-uva.github.io/). I earned degrees in Computer Science and Data Analytics from [Drake University](https://www.drake.edu/cs/). 
 
 My research area is software engineering, specifically software verification and testing. Software dominates the world. It's important that any software that can affect people be thoroughly examined for safety issues. In most testing and verification tools, there are design decisions which fall to heuristics designed by humans, e.g. how should the tool explore the state space. Humans are invariably biased, which often leads to suboptimal heuristics. My research focusses on using machine learning to replace these heuristics, allowing the data to decide how to make decisions, making the tools less reliant on the knowledge of the engineer that designed it and more effective at finding bugs and proving properties.
-
-Also, I'm on the job market for a faculty position at schools that will allow me to continue doing research and teach, such as schools listed [here](https://cs-pui.github.io/). If I have applied to your department and you are looking for my materials, [look no further](/materials).
 
 ## Personal Life
 
