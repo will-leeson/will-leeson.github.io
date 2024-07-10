@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <em><a href='https://www.youtube.com/watch?v=n95r64HhLOQ'>The point of the journey is not to arrive</a></em> &#x2014; Neil Peart
+subtitle: <em><a href='https://www.youtube.com/watch?v=nlaoR5m4L80'>No one knows for certain, let the mystery be</a></em> &#x2014; Iris Dement
 
 
 profile:
@@ -21,10 +21,12 @@ social: true  # includes social icons at the bottom of the page
 
 ## About Me
 
-My name is Will Leeson. I'm a Ph.D. student at the University of Virginia studying under [Matt Dwyer](https://matthewbdwyer.github.io/) and a member of the [LESS Lab](https://less-lab-uva.github.io/). I earned degrees in Computer Science and Data Analytics from [Drake University](https://www.drake.edu/cs/). 
+My name is Will Leeson. I'm an Assistant Professor of Computer Science in the Mathematics, Statistics, and Computer Science Department at St. Olaf College.
+I earned my Ph.D. in Computer Science at the University of Virginia studying under [Matthew Dwyer](https://matthewbdwyer.github.io/) where I was a member of the [LESS Lab](https://less-lab-uva.github.io/). 
+I earned degrees in Computer Science and Data Analytics from [Drake University](https://www.drake.edu/cs/). 
 
-My research area is software engineering, specifically software verification and testing. Software dominates the world. It's important that any software that can affect people be thoroughly examined for safety issues. In most testing and verification tools, there are design decisions which fall to heuristics designed by humans, e.g. how should the tool explore the state space. Humans are invariably biased, which often leads to suboptimal heuristics. My research focusses on using machine learning to replace these heuristics, allowing the data to decide how to make decisions, making the tools less reliant on the knowledge of the engineer that designed it and more effective at finding bugs and proving properties.
+My research area is software engineering, specifically program analysis. Software dominates the world. It's important that any software that can affect people be thoroughly examined for safety issues. My research focusses on using machine learning to models to guide program analysis to be more efficient and, in some cases, more correct. To do this, I leverage graph representations of programs which faithfully represent their semantics. This allows the model to identify patterns in the behavior of the system, so it can learn when certain decisions are most appropriate. 
 
 ## Personal Life
 
-I'm originally from Tinley Park, a suburb of Chicago. I'm a midwesterner at heart, and I will defend deep dish pizza until the day I die. I enjoy playing sports, watching great movies, cooking, and playing video and board games with friends. Above all else, music is my favorite hobby, whether it be listening or playing. My parents got me interested at an early age and it spiraled out of control from there. I like most genres, but I particularly love folk and progressive rock.
+I'm originally from Tinley Park, a suburb of Chicago. I'm a midwesterner at heart, and I will defend deep dish pizza until the day I die. I enjoy playing sports, watching great movies, cooking, and playing video and board games with friends. Above all else, music is my favorite hobby, whether it be listening or playing. My parents got me interested at an early age and it spiraled out of control from there. I like most genres, but I particularly love folk, new wave, and progressive rock.
