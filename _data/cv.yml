@@ -9,11 +9,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Philosophy
+    - title: Doctor of Philosophy, Computer Science
       institution: University of Virginia, United States
-      year: 2019 - Present
+      year: 2019 - 2024
       description:
         - Advisor - <a href="https://matthewbdwyer.github.io">Matthew B. Dwyer</a>
+        - Dissertation - Learning to Improve Program Analysis Using Graph Representations
     - title: Bachelors of Science
       institution: Drake University
       year: 2015-2019
@@ -24,24 +25,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: St. Olaf College, United States
+      year: 2024 - Present
     - title: Research Assistant
       institution: University of Virginia, United States
       lab: <a href="https://less-lab-uva.github.io/">Less Lab</a>
-      year: 2019 - Present
+      year: 2019 - 2024
     - title: Instructor
       institution: University of Virginia, United States
       year: 2023
       description:
         - CS1010 - Introduction to Information Technology
-    - title: Teaching Assistant
-      institution: University of Virginia, United States
-      year: 2020-2021
-      description:
-        - CS 4501 - Software Analysis and Applications (Fall 2021)
-        - CS 4620 - Compilers (Fall 2021)
-        - CS 6888 - Software Analysis and Applications (Spring 2021)
-        - CS 4620 - Compilers (Fall 2020)
-
     - title: Research Assistant
       institution: Drake University, United States
       year: 2017-2019
