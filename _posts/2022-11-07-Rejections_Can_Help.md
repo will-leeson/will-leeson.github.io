@@ -51,4 +51,6 @@ With this in mind, I added some more detail into the paper. When I was describin
 ## In Summary
 This may sound like rationalization, but as much as it stunk at the time, I am grateful the first version of this paper got rejected. In all honestly, I still think it was good enough to be accepted last time. I've definitely read worse at similar venues. But I think the paper has gone from having good merit and a fine description to having good merit and a great description. What really helped was the time between the initial submission and the rejection. I was able to look at it with fresh eyes and be more honest with myself. So, yeah. It stinks to get a rejection on a piece of work you think is good, but take it as an opportunity to revaluate it and try and improve it. This is fairly generic advice, but it has rung true to me. It may mean more once you've gone through it.
 
-Also, this paper just got accepted and will appear at ICSE 2023.
+Also, this paper just got accepted and will appear at ICSE 2023. 
+
+Update: It also received a best paper award.
