@@ -101,7 +101,7 @@ wonderful. I'm walking through the idea, thinking about why it could work, and I
 I go back to my room, watch a video essay about some thing, I can't remember now and then, oh yeah I have a presentation in about 36 hours.
 
 The next day, I wake up, grab breakfast and coffee, and then I practice. I get through my presentation and I think I've got it down pretty good. I'm off book. I do some random tasks around town and do another run 
-through. I grab dinner, say some affirmations in a mirror, and then I watch a The Birdcage. Its one of my favorite. For my money, its Nathan Land and Robin Williams at their best. The movie unfolds, things start 
+through. I grab dinner, say some affirmations in a mirror, and then I watch a The Birdcage. Its one of my favorite. For my money, its Nathan Lane and Robin Williams at their best. The movie unfolds, things start 
 to go wrong and Robin Williams says "F*** it. It's one night. I can live through it." This resonated with me like you wouldn't believe. It's one presentation. I can live through it.
 
 The big day is here. So many anxious days and nights are behind me. I wake up and get ready for the day. I see the good people at the Seth Meyers and Lonely Island podcast have published an episode (Not a sponsor 
@@ -131,4 +131,4 @@ for me because I'm not sure I could take much more. Its a time full of doubt. I 
 work? Have I written it well enough? Is this presentation going to cover everything? The moments of respite I had were when I was distracted with the people I love or when I was talking to people who had been through
 it before. Odds are, I'm not someone you love. That's ok. Odds are, I don't love you either. However, I have been through it. Will reading this make it easier, probably not. But, know you are not alone. It may feel 
 very isolating, because in many ways it is. It feels like a herculean task. As my advisor said, research is hard, otherwise, everyone would do it. I suggest you talk to people who have been through it. Maybe not your
-advisor, or the people on your committee. That always felt like a conflict of interest to me. But, if you've had people recently finish, they are great people to talk to. They know the struggle first hand, and they can sympathize. Your mileage may vary, so maybe test the waters first. There are some prickly academic out there.
+advisor, or the people on your committee. That always felt like a conflict of interest to me. But, if you've had people recently finish, they are great people to talk to. They know the struggle first hand, and they can sympathize. Your mileage may vary, so maybe test the waters first. There are some prickly academics out there.
