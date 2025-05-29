@@ -1,9 +1,33 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+# Journals
+"TSE":
+  url: https://www.computer.org/csdl/journal/ts
+  color: "#bb00bb"
+
+"TOSEM":
+  url: https://dl.acm.org/journal/tosem
+  color: "#bb00bb"
+
+"IJQM":
+  url: https://journals.sagepub.com/home/ijq
+  color: "#bb00bb"
+
+# Conferences
+"ASE":
+  url: https://dl.acm.org/conference/ase
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICSE":
+  url: https://dl.acm.org/conference/icse
+  color: "#00369f"
 
-"Vision":
-  color: "#009f36"
+"FSE":
+  url: https://dl.acm.org/conference/fse
+  color: "#00369f"
+
+"ISSTA":
+  url: https://dl.acm.org/conference/issta
+  color: "#00369f"
+
+"TACAS":
+  url: https://tacas.info/
+  color: "#00369f"
