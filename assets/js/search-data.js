@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-my-experience-in-dissertating",
+        },{id: "post-xanadu",
+        
+          title: "Xanadu",
+        
+        description: "Nope, not Rush. Olivia Newton-John and ELO",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/xanadu/";
+          
+        },
+      },{id: "post-my-experience-in-dissertating",
         
           title: "My Experience in Dissertating",
         
